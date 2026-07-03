@@ -60,6 +60,8 @@ full-stack web applications using Rust.
 
 - [antigravity-sdk-rust](https://github.com/codeitlikemiley/antigravity-sdk-rust) - A Rust library for building AI agents with Gemini. Includes Leptos examples demonstrating how to integrate agentic workflows into Leptos web applications.
 
+- [ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es) - A production-grade Rust framework for DDD, CQRS, and Event Sourcing, with first-class support for Leptos, WASI, and Spin.
+
 ## Styling and Design
 
 - [Stylers](https://github.com/abishekatp/stylers) Compile-time scoped CSS
